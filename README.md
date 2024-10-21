@@ -1,4 +1,4 @@
-Loan Default Prediction Project
+Loan Default Prediction Model
 
 Overview:
 This project aims to develop machine learning models for predicting loan defaults using historical data from a German bank. 
